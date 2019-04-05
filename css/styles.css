@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+.header{
+    text-align: center;
+    color: #db3c3ce0;
+}
+
+.para{
+    width: 60%;
+    height: 20px;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    color: #7fff00;
+    background-color: #da7a8a;
+    border: thick solid #f37a09;
+    border-radius: 100px;
+}
+
+.image{
+    height: 500px;
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 25px;
+    border: thick solid #8f49d1;
+    border-radius: 100px;
+}
