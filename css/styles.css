@@ -1,10 +1,10 @@
 body{
-    background-color: black;
+    background-color: #000000;
 }
 
 .header{
     text-align: center;
-    color: #db3c3ce0;
+    color: #3c8edbe0;
 }
 
 .para{
@@ -13,18 +13,40 @@ body{
     display: block;
     text-align: center;
     margin: 0 auto;
-    color: #7fff00;
-    background-color: #da7a8a;
-    border: thick solid #f37a09;
+    color: #000000;
+    background-color: #db6276;
+    border: thick solid #6049df;
     border-radius: 100px;
 }
 
+.col-1{
+    display: block;
+    float: left;
+    margin-left: 250px;
+}
+.col-2{
+    display: block;
+    float: right;
+    margin-right: 250px;
+}
+
 .image{
-    height: 500px;
-    width: 500px;
+    height: 300px;
+    width: 300px;
     display: block;
     margin: 0 auto;
     margin-top: 25px;
     border: thick solid #8f49d1;
     border-radius: 100px;
+}
+
+.myName{
+    color:#910891;
+    text-align: center;
+}
+
+.list{
+  color: #eb708f;
+  margin-left: 650px;
+
 }
